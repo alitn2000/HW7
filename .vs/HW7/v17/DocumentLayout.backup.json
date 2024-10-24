@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\HW7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\boxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\boxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\iboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\iboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\catenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\catenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\imarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\imarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|d:\\c#\\hw7\\hw7\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99E1286-5305-4D86-8CEF-59DFD9184AD4}|HW7\\HW7.csproj|solutionrelative:hw7\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\Program.cs",
+              "RelativeDocumentMoniker": "HW7\\Program.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\Program.cs",
+              "RelativeToolTip": "HW7\\Program.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAALYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:25:56.769Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoxService.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\BoxService.cs",
+              "RelativeDocumentMoniker": "HW7\\BoxService.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\BoxService.cs",
+              "RelativeToolTip": "HW7\\BoxService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:57:33.267Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\AdminService.cs",
+              "RelativeDocumentMoniker": "HW7\\AdminService.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\AdminService.cs",
+              "RelativeToolTip": "HW7\\AdminService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:00:41.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "HW7\\OrderStatus.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\OrderStatus.cs",
+              "RelativeToolTip": "HW7\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:45:35.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarketService.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\MarketService.cs",
+              "RelativeDocumentMoniker": "HW7\\MarketService.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\MarketService.cs",
+              "RelativeToolTip": "HW7\\MarketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:18:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\Purchase.cs",
+              "RelativeDocumentMoniker": "HW7\\Purchase.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\Purchase.cs",
+              "RelativeToolTip": "HW7\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:01:22.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\Admin.cs",
+              "RelativeDocumentMoniker": "HW7\\Admin.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\Admin.cs",
+              "RelativeToolTip": "HW7\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:41:23.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\Box.cs",
+              "RelativeDocumentMoniker": "HW7\\Box.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\Box.cs",
+              "RelativeToolTip": "HW7\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:46:43.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMarketService.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\IMarketService.cs",
+              "RelativeDocumentMoniker": "HW7\\IMarketService.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\IMarketService.cs",
+              "RelativeToolTip": "HW7\\IMarketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:17:56.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatEnum.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\CatEnum.cs",
+              "RelativeDocumentMoniker": "HW7\\CatEnum.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\CatEnum.cs",
+              "RelativeToolTip": "HW7\\CatEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:19:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\Storage.cs",
+              "RelativeDocumentMoniker": "HW7\\Storage.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\Storage.cs",
+              "RelativeToolTip": "HW7\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:38:02.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\Product.cs",
+              "RelativeDocumentMoniker": "HW7\\Product.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\Product.cs",
+              "RelativeToolTip": "HW7\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:31:54.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\User.cs",
+              "RelativeDocumentMoniker": "HW7\\User.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\User.cs",
+              "RelativeToolTip": "HW7\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:27:18.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\Authentication.cs",
+              "RelativeDocumentMoniker": "HW7\\Authentication.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\Authentication.cs",
+              "RelativeToolTip": "HW7\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:51:01.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBoxService.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\IBoxService.cs",
+              "RelativeDocumentMoniker": "HW7\\IBoxService.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\IBoxService.cs",
+              "RelativeToolTip": "HW7\\IBoxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:56:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "D:\\c#\\HW7\\HW7\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "HW7\\IAuthentication.cs",
+              "ToolTip": "D:\\c#\\HW7\\HW7\\IAuthentication.cs",
+              "RelativeToolTip": "HW7\\IAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:49:25.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
